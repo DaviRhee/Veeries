@@ -3,7 +3,7 @@
 ## Arquitetura
 - **Bronze**: Dados brutos com metadados de coleta.
 - **Silver**: Dados limpos e padronizados.
-- **Gold**: Dados enriquecidos com KPIs prontos para análise.
+- **Gold**: Dados enriquecidos.
 
 ## Como Executar
 bash
